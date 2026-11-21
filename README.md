@@ -93,8 +93,24 @@ Rossen Ritter is designed to support integration into existing cybersecurity env
 <p align="center">
   <strong>1. Collect → 2. Correlate → 3. Investigate → 4. Defend</strong>
 </p>
+<p align="center">
+<img width="911" height="353" alt="ioc-radar" src="https://github.com/user-attachments/assets/8067f2bb-86a6-40ce-a0fc-fd5eb760967d" />
+<img width="895" height="313" alt="firewall-shield" src="https://github.com/user-attachments/assets/ac7f11c5-f72f-4669-8e60-885d429e527c" />
+</p>
 
----
+## 🔥🧱 Firewall Blocks
+
+<p align="center">
+  <b>🧱 pfSense Verification</b><br><br>
+  <img width="557" alt="pfSense firewall block" src="https://github.com/user-attachments/assets/dd43513a-cb1e-472c-bc4d-dde4e2722e76" />
+</p>
+
+<p align="center">
+  <b>🛡️ Palo Alto Verification</b><br><br>
+  <img width="900" alt="Palo Alto deny log" src="https://github.com/user-attachments/assets/2ee5eef0-f10c-489c-9c5c-3ddd58e7deca" />
+</p>
+
+
 
 ## 🌹 Project Philosophy
 
