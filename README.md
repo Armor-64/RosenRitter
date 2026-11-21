@@ -1,4 +1,5 @@
-Rossen Ritter <img width="2000" height="2000" alt="rossen-ritter-emblem" src="https://github.com/user-attachments/assets/dd8a9a8c-5408-49d0-9316-c70fcc6673e1" />
+Rossen Ritter <img width="1254" height="1254" alt="6534c693-7e4c-4251-8317-664d4d0355c9" src="https://github.com/user-attachments/assets/7df2e17c-b146-48ca-8f13-d01660dd36bf" />
+
 
 
 The Knight of the Rose
