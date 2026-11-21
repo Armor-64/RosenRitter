@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="6534c693-7e4c-4251-8317-664d4d0355c9" src="https://github.com/user-attachments/assets/7df2e17c-b146-48ca-8f13-d01660dd36bf" />
+<img width="1254" height="1254" alt="c28150e4-a944-4d36-ba75-d81966250f51" src="https://github.com/user-attachments/assets/de889bca-f081-4f82-ba29-9f16b8ba3a3c" />
 <h1 align="center">
    Rossen Ritter — The Knights of the Roses 
 </h1>
