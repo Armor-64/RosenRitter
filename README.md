@@ -1,107 +1,117 @@
-Rosen Ritter <img width="1254" height="1254" alt="6534c693-7e4c-4251-8317-664d4d0355c9" src="https://github.com/user-attachments/assets/7df2e17c-b146-48ca-8f13-d01660dd36bf" />
+<img width="1254" height="1254" alt="6534c693-7e4c-4251-8317-664d4d0355c9" src="https://github.com/user-attachments/assets/7df2e17c-b146-48ca-8f13-d01660dd36bf" />
+<h1 align="center">
+   Rossen Ritter — The Knights of the Roses 
+</h1>
+<p align="center">
+  <strong>Knowledge is the first line of defence.</strong>
+  <br>
+  An Open-Source Threat Intelligence Collection by <a href="https://www.armoredpcs.gr/">Armored-PCs</a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT-OPEN%20SOURCE-purple?style=for-the-badge" alt="Open Source">
+  <img src="https://img.shields.io/badge/TYPE-THREAT%20INTELLIGENCE-red?style=for-the-badge" alt="Threat Intelligence">
+  <img src="https://img.shields.io/badge/UPDATES-EVERY%206%20HOURS-blue?style=for-the-badge" alt="Automated Updates">
+</p>
 
+---
 
-🌹 Rossen Ritter — The Knight of the Roses
+## 🛡️ About the Project
 
-Knowledge is the first line of defence.
+**Rossen Ritter** is a centralized collection of **Open-Source Cyber Threat Intelligence (OSCTI)**, bringing together Indicators of Compromise (IOCs) from multiple independent threat intelligence providers, security research teams and community-driven feeds.
 
-An Open-Source Threat Intelligence Collection by Armored-PCs
+- 🎯 Makes threat intelligence **accessible, organized and integration-ready**
+- 👥 Built for **security professionals, SOC teams, researchers** and defensive security operations
+- 🔗 Consolidates intelligence from different sources into **one centralized collection**
+- 🛠️ Supports **threat hunting, detection engineering, incident response** and proactive defence
 
-Rossen Ritter is a centralized collection of Open-Source Cyber Threat Intelligence (OSCTI), aggregating Indicators of Compromise (IOCs) from multiple independent threat intelligence providers and community-driven sources.
+---
 
-The project brings together intelligence from established security research teams and open-source platforms, including:
+## 🔎 Intelligence Sources
 
-CrowdStrike Threat Intelligence
+The collection aggregates intelligence from established security research teams and community-driven platforms, including:
 
-Palo Alto Networks Unit 42
+- **CrowdStrike Counter Adversary Operations**
+- **Palo Alto Networks Unit 42**
+- **URLhaus**
+- **ThreatFox**
+- **ThreatBase**
+- **MISP** communities
+- Additional open-source threat intelligence feeds
 
-URLhaus
+---
 
-ThreatFox
+## 📡 Indicator Coverage
 
-ThreatBase
+Rossen Ritter collects and distributes multiple types of Indicators of Compromise (IOCs):
 
-MISP communities and independent threat intelligence feeds
+| Indicator Type | Description |
+|:---|:---|
+| **IPv4 / IPv6** | Malicious, suspicious and potentially benign IP addresses |
+| **Domains** | Domains associated with malicious infrastructure |
+| **URLs** | Malware distribution, phishing and malicious URLs |
+| **MD5** | File hashes for malware identification |
+| **SHA1** | File hashes for threat correlation |
+| **SHA256** | File hashes for threat identification and investigation |
 
-Additional open-source and publicly available intelligence sources
+> [!NOTE]
+> IP intelligence may include active threats, historical indicators and benign addresses, depending on the original intelligence source and its classification.
 
-Threat Intelligence Coverage
+---
 
-Collected indicators include:
+## ⚙️ Automated Collection & Distribution
 
-Indicator Type
+Threat intelligence collection and distribution are automated through the **Armored-PCs Threat Intelligence Platform**.
 
-Description
+The platform handles:
 
-IPv4 / IPv6
+- Automated feed collection
+- Indicator processing and organization
+- Consolidation from multiple intelligence providers
+- Automated list generation and distribution
+- Periodic intelligence refresh
 
-Malicious, suspicious and potentially benign IP addresses
+⏱️ **Update Frequency:** Every 6 hours
 
-Domains
+---
 
-Domains associated with malicious infrastructure
+## 🔗 Integration & Use Cases
 
-URLs
+Rossen Ritter is designed to support integration into existing cybersecurity environments.
 
-Malware distribution, phishing and malicious URLs
+- **SIEM** — Threat detection and correlation
+- **XDR / EDR** — Indicator-based detection and investigation
+- **SOAR** — Automated enrichment and response workflows
+- **Firewalls** — IP and domain-based blocking policies
+- **Threat Hunting** — Proactive investigation of suspicious activity
+- **MISP** — Threat intelligence correlation and sharing
 
-MD5
+---
 
-File hashes for malware identification
+## 🎯 Core Workflow
 
-SHA1
+<p align="center">
+  <strong>1. Collect → 2. Correlate → 3. Investigate → 4. Defend</strong>
+</p>
 
-File hashes for threat correlation
+---
 
-SHA256
+## 🌹 Project Philosophy
 
-File hashes for threat identification and investigation
+Like a knight guarding what matters, Rossen Ritter represents the continuous collection, organization and sharing of intelligence to help defend digital infrastructure.
 
-IP intelligence may include both active threats and benign or non-malicious classifications, depending on the original source and available context.
+- 🌹 **The rose** symbolizes vigilance, resilience and the responsibility of protecting what matters.
+- ⚔️ **The knight** represents those who stand on the front line of cybersecurity, continuously defending against evolving digital threats.
 
-Purpose
+Together, they embody a simple philosophy:
 
-Rossen Ritter aims to make threat intelligence accessible, organized and integration-ready for:
+> **Knowledge is the first line of defence. Intelligence is the foundation of protection.**
 
-Security professionals
-
-SOC and CERT teams
-
-Threat intelligence analysts
-
-Cybersecurity researchers
-
-Defensive security operations
-
-The collected indicators are organized into dedicated lists, making them easier to consume and integrate into security platforms, SIEM, XDR, SOAR, firewalls and other defensive technologies.
-
-Automated Intelligence Collection
-
-Threat intelligence feeds are automatically collected, processed and distributed through the Armored-PCs Threat Intelligence platform.
-
-Update frequency: Every 6 hours.
-
-The automated workflow continuously gathers intelligence from configured sources and distributes the resulting indicator lists for operational use.
-
-Core Workflow
-
-Collect · Correlate · Investigate · Defend
-
-🌹 Project Philosophy
-
-Like a knight guarding what matters, Rossen Ritter represents the continuous collection, organization and sharing of intelligence to help protect digital infrastructure.
-
-The rose symbolizes vigilance, resilience and the responsibility of protecting what matters.
-
-The knight represents the defenders who stand between digital infrastructure and the threats targeting it.
-
-Together, they embody the project's philosophy:
-
-Knowledge is the first line of defence. Intelligence is the foundation of protection.
-
-Maintained by Armored-PCs
-
-🌐 https://www.armoredpcs.gr/
-
-Open intelligence. Stronger defence. A safer digital world.
+---
+<p align="center">
+  <strong>ARMORED-PCs</strong>
+  <br>
+  <a href="https://www.armoredpcs.gr/">www.armoredpcs.gr</a>
+  <br><br>
+  <i>Open Intelligence. Stronger Defence.</i>
+</p>
