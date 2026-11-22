@@ -1,6 +1,7 @@
-<img width="1254" height="1254" alt="c28150e4-a944-4d36-ba75-d81966250f51" src="https://github.com/user-attachments/assets/de889bca-f081-4f82-ba29-9f16b8ba3a3c" />
+<img width="1254" height="1254" alt="emblem_A" src="https://github.com/user-attachments/assets/423ff57e-7b71-410d-900d-34640128cad2" />
+
 <h1 align="center">
-   Rossen Ritter — The Knights of the Roses 
+   Rosen Ritter — The Knights of the Roses 
 </h1>
 <p align="center">
   <strong>Knowledge is the first line of defence.</strong>
@@ -16,9 +17,9 @@
 
 ---
 
-## 🛡️ About the Project
+## ❓ About the Project
 
-**Rossen Ritter** is a centralized collection of **Open-Source Cyber Threat Intelligence (OSCTI)**, bringing together Indicators of Compromise (IOCs) from multiple independent threat intelligence providers, security research teams and community-driven feeds.
+**Rossen Ritter is a centralized collection of Open-Source Cyber Threat Intelligence (OSCTI), bringing together Indicators of Compromise (IOCs) and Indicators of Attack (IOAs) from multiple independent threat intelligence providers, security research teams, and community-driven feeds.
 
 - 🎯 Makes threat intelligence **accessible, organized and integration-ready**
 - 👥 Built for **security professionals, SOC teams, researchers** and defensive security operations
@@ -43,7 +44,7 @@ The collection aggregates intelligence from established security research teams 
 
 ## 📡 Indicator Coverage
 
-Rossen Ritter collects and distributes multiple types of Indicators of Compromise (IOCs):
+Rossen Ritter collects and distributes multiple types of Indicators of Compromise (IOCs) and Indicators of Attack (IOAs):
 
 | Indicator Type | Description |
 |:---|:---|
@@ -111,22 +112,31 @@ Rossen Ritter is designed to support integration into existing cybersecurity env
 </p>
 
 <p align="center">
-  <b>🔍 Graynose IP Lookup </b><br><br>
+  <b>🔍 GreyNoisee IP Lookup </b><br><br>
   <img width="2540" height="1189" alt="Screenshot 2026-11-21 213143" src="https://github.com/user-attachments/assets/67cc50b4-99ca-4750-837a-ab58ad66b178" />
 </p>
 
 
 
-## 🌹 Project Philosophy
+## 💡 Project Philosophy
 
-Like a knight guarding what matters, Rossen Ritter represents the continuous collection, organization and sharing of intelligence to help defend digital infrastructure.
+Like a knight guarding what matters, Rosen Ritter represents the continuous collection, organization and sharing of intelligence to help defend digital infrastructure.
+We believe cybersecurity should not be a privilege reserved for large enterprises or organizations with extensive security teams. Every team, business and organization deserves the awareness, knowledge and tools needed to better protect its digital environment.
 
-- 🌹 **The rose** symbolizes vigilance, resilience and the responsibility of protecting what matters.
-- ⚔️ **The knight** represents those who stand on the front line of cybersecurity, continuously defending against evolving digital threats.
+Our mission is to help security teams and organizations strengthen their defensive capabilities through accessible threat intelligence, automation and security awareness.
 
+We believe that effective automation, alerting and intelligent triage can significantly reduce the impact of security threats by helping teams identify, prioritize and respond to a large portion of security issues more efficiently. By reducing repetitive manual tasks and improving visibility, security professionals can focus their efforts where they matter most.
+
+But technology alone is not enough.
+
+We also want to raise awareness among those who believe cybersecurity is not for everyone. Security is a shared responsibility, not just the job of a dedicated IT or SOC department. Every organization, regardless of its size or technical maturity, has something worth protecting.
 Together, they embody a simple philosophy:
 
 > **Knowledge is the first line of defence. Intelligence is the foundation of protection.**
+>
+> Our goal is not simply to collect indicators of compromise, but to help build a more informed, prepared and resilient security community.
+
+Because cybersecurity is not just for the few. It is for everyone.
 
 ---
 <p align="center">
