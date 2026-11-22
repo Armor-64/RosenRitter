@@ -112,7 +112,7 @@ Rossen Ritter is designed to support integration into existing cybersecurity env
 </p>
 
 <p align="center">
-  <b>🔍 GreyNoisee IP Lookup </b><br><br>
+  <b>🔍 GreyNoise IP Lookup </b><br><br>
   <img width="2540" height="1189" alt="Screenshot 2026-11-21 213143" src="https://github.com/user-attachments/assets/67cc50b4-99ca-4750-837a-ab58ad66b178" />
 </p>
 
