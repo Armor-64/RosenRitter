@@ -19,7 +19,7 @@
 
 ## ❓ About the Project
 
-**Rossen Ritter is a centralized collection of Open-Source Cyber Threat Intelligence (OSCTI), bringing together Indicators of Compromise (IOCs) and Indicators of Attack (IOAs) from multiple independent threat intelligence providers, security research teams, and community-driven feeds.
+Rosen Ritter is a centralized collection of Open-Source Cyber Threat Intelligence (OSCTI), bringing together Indicators of Compromise (IOCs) and Indicators of Attack (IOAs) from multiple independent threat intelligence providers, security research teams, and community-driven feeds.
 
 - 🎯 Makes threat intelligence **accessible, organized and integration-ready**
 - 👥 Built for **security professionals, SOC teams, researchers** and defensive security operations
