@@ -146,3 +146,9 @@ Because cybersecurity is not just for the few. It is for everyone.
   <br><br>
   <i>Open Intelligence. Stronger Defence.</i>
 </p>
+
+<p align="center">
+<a href="https://www.abuseipdb.com/user/252817" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+  <img src="https://www.abuseipdb.com/contributor/252817.svg?theme=dark" alt="AbuseIPDB Contributor Badge" style="width: 401px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
+</a>
+</p>
