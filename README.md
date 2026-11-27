@@ -148,9 +148,37 @@ Because cybersecurity is not just for the few. It is for everyone.
 </p>
 
 <p align="center">
-<a href="https://www.abuseipdb.com/user/252817" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-  <img src="https://www.abuseipdb.com/contributor/252817.svg" alt="AbuseIPDB Contributor Badge" width="359" height="90" style="height: auto;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0)); padding: 5px;">
-</a>
-</a>
+<style>
+  .abuseipdb-badge {
+    display: inline-block;
+    padding: 5px;
+    border-radius: 8px;
+    line-height: 0;
+    /* Light mode */
+    background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));
+    box-shadow: 0 1px 3px rgba(0,0,0,.15);
+  }
+  .abuseipdb-badge img {
+    width: 359px;
+    max-width: 100%;
+    height: auto;
+  }
+  @media (prefers-color-scheme: dark) {
+    .abuseipdb-badge {
+      /* Dark mode: deeper green, softer gloss, no harsh shadow */
+      background: #1f7a2c linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.12) 50%, rgba(0,0,0,.25) 51%, rgba(0,0,0,0));
+      box-shadow: 0 0 0 1px rgba(255,255,255,.08);
+    }
+    .abuseipdb-badge img {
+      filter: brightness(.9);
+    }
+  }
+</style>
+
+<a class="abuseipdb-badge"
+   href="https://www.abuseipdb.com/user/252817"
+   title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+  <img src="https://www.abuseipdb.com/contributor/252817.svg"
+       alt="AbuseIPDB Contributor Badge" width="359" height="90">
 </a>
 </p>
