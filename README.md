@@ -149,6 +149,6 @@ Because cybersecurity is not just for the few. It is for everyone.
 
 <p align="center">
 <a href="https://www.abuseipdb.com/user/252817" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-  <img src="https://www.abuseipdb.com/contributor/252817.svg?theme=dark&v=2" alt="AbuseIPDB Contributor Badge" style="width: 401px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
+  <img src="https://www.abuseipdb.com/contributor/252817.svg?theme=dark" alt="AbuseIPDB Contributor Badge" width="359" height="90" style="height: auto;background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0)); padding: 5px;">
 </a>
 </p>
