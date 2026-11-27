@@ -140,42 +140,6 @@ Because cybersecurity is not just for the few. It is for everyone.
 
 ---
 <p align="center">
-  <strong>ARMORED-PCs</strong>
-  <br>
-  <a href="https://www.armoredpcs.gr/">www.armoredpcs.gr</a>
-  <br><br>
-  <i>Open Intelligence. Stronger Defence.</i>
-</p>
-
-<p align="center">
-<style>
-  .abuseipdb-badge {
-    display: inline-block;
-    padding: 5px;
-    border-radius: 8px;
-    line-height: 0;
-    /* Light mode */
-    background: #35c246 linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.3) 50%, rgba(0,0,0,.2) 51%, rgba(0,0,0,0));
-    box-shadow: 0 1px 3px rgba(0,0,0,.15);
-  }
-  .abuseipdb-badge img {
-    width: 359px;
-    max-width: 100%;
-    height: auto;
-  }
-  @media (prefers-color-scheme: dark) {
-    .abuseipdb-badge {
-      /* Dark mode: deeper green, softer gloss, no harsh shadow */
-      background: #1f7a2c linear-gradient(rgba(255,255,255,0), rgba(255,255,255,.12) 50%, rgba(0,0,0,.25) 51%, rgba(0,0,0,0));
-      box-shadow: 0 0 0 1px rgba(255,255,255,.08);
-    }
-    .abuseipdb-badge img {
-      filter: brightness(.9);
-    }
-  }
-</style>
-
-<p align="center">
 <a href="https://www.abuseipdb.com/user/252817" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
   <img src="https://www.abuseipdb.com/contributor/252817.svg?theme=dark&v=2" alt="AbuseIPDB Contributor Badge" style="width: 401px;box-shadow: 2px 2px 1px 1px rgba(0, 0, 0, .2);">
 </a>
